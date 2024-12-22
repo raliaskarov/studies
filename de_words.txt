@@ -1,3 +1,185 @@
+der Ausflug,the trip
+aufgeben,to give up
+erfolgreich,successful
+folgend,following
+der Verlauf,the course, development (e.g. of the events)
+betreten,to enter, access
+der Turm,the tower
+die Kerze,the Candle
+anmachen,to turn on / to light / to put on / to chat up / to drive wild
+leise,quietly
+anzünden,to light, to set on fire
+das Geschirr,the dishes
+spülen,to wash the dishes
+bügelen,to iron
+schneiden,to cut
+wegwerfen,to throw away
+der Wecker,the alarm clock
+leider,unfortunately
+dauern,to last
+erholen,to recover; to rest
+schalen,to peel
+der Kuchen,the cake
+die Zukunft,the future
+bestimmte,particular
+die Zutat,the ingredient
+die Würfel,dice, cubes
+hacken,to chop
+die Pfanne,the pan
+dazutun,to add
+schlagen,hit (e.g. sour cream)
+giessen,to pour water
+streuen,sprinkle
+würzen,Spice up
+das Gericht,the course / the disch
+buntstifte,colored pencils
+hässlich,ugly
+dazulegen,to add
+anschließend,afterwards, subsequently
+kriegen,to get, obtain
+müde,tired
+verschtecken,hide
+seltsam,strange, odd
+teilnehmen,to participate
+berichten,to report, tell
+die Auskunft,information, advice
+neugierig,curious
+Jura,law (as a field of study)
+befristete,temporary
+Krankenkasse,health insurance
+nutzlos,useless; pointless
+zuverlässig,reliable
+riechen,smell
+anfassen,to touch, grab
+die Entwicklung,development, evolution
+die Reihenfolge,Sequence/Chronological Order
+Allgemein,in general
+Am häufigsten,mostly
+häufiger,more often
+der Zoll,the customs checkpoint
+die Tastatur,keyboard, keypad
+dringend,urgent, urgently
+herunterladen,to download (not 'downloaden,' 'laden')
+heruntergeladen,downloaded
+zeichnen,draw
+eigentlich,actually
+Häufig,frequently
+sich häufig treffen,to meet frequently
+ehrlich,honestly
+sogar,even
+mutig,brave
+schlank,slim, slender
+klug,clever
+stark,strong
+ziemlich,quite, fairly
+gemütlich,comfortable
+langweilig,boring
+nett,nice
+spannend,exciting
+abwechslungsreich,diversified, varied
+die Anzeige,advertisement, ad
+geschieden,divorced, separated
+Sonderangebot das,special offer
+das Verkehrsschild,the traffic sign
+Verlustanzeige,the loss notice
+die Sehenswürdigkeiten,sightseeing places
+unbedingt,absolutely
+glücklich,happy
+die Gier,greed
+die Angst,fear
+die Armut,poverty
+säuerlich,sour
+prickelnd,sparkling
+gefährlich,dangerous
+schiessen,to shoot
+das Hochwasser,flood
+eifersüchtig,jealous
+entscheiden sich,to decide
+ruhig,quiet
+niemals,never ever
+das Lachen,the laugh
+Das Abenteuer,adventure
+irgendwo,somewhere, anywhere
+ungewöhnliche,unusual
+weinen,to cry
+leidgetan,got disappointed
+teilen,to share
+sterben,to die
+gestorben,died
+streng,stric
+sogar,even
+merken,to notice
+wiedersehen,see you again
+Damals,at that time
+wieder,again
+zu viert,the four of us
+ehemalige,former, ex-
+ungewöhnliche,unusual
+der Wohnheim,dormitory
+Weit,far
+Selbständig,self employed
+Dadurch dass ...,as result of ...
+empfehlen,recommend
+ankommen,to arrive
+Die Tüte,the bag (plastic or paper shopping bag)
+die Eisdiele,ice cream stall
+abholen,to pick up, collect
+die Ampel,the Traffic light
+das Tor,the gate
+die Bushaltestelle,the bus stop
+zeichnen,to draw
+der Radweg,the bike path
+abfliegen,to depart
+ankommen,to arrive
+Der Abflug,the takeoff (plane)
+das Gepäck,the baggage
+die Entscheidung,the decision
+der Anfang,the beginning
+die Abreise,the departure
+unbedingt,necessarily, unconditionally
+notwendig,necessary, essential
+der Zettel,the note
+verbinden,to connect
+gerade,straight
+besetzt,occupied
+die Vorbereitung,the preparation
+die Wirtschaftsuniversität,university of economics
+wechseln,to change
+die Folge,the season of TV series
+die Notaufnahme,the emergency department
+sich Sorgen machen,to worry
+bluten,to bleed
+sich stossen,to hit (a head)
+die Feuerwehr,fire service
+bewusstlos,unconscious
+stürzen,to fall
+sich verletzen,to injure oneself
+der Verband,the bandage
+zerbrechen,to destroy
+brechen,to break
+die Lungenentzündung,the pneumonia
+die Operation,the surgery
+die Krankheit,the illness
+das Gehirn,the brain
+das Redemittel,mean of speech
+wütend,angry
+der Husten,the cough
+die Brust,the cheast
+verletzen,to injure
+das Bein,the leg
+der Notruf,the emergency call
+die Anfrage,the request
+erfolglos,unsuccessful
+erreichbar,reachable
+der Erfolg,the success
+ansprechbar,responsive
+gestürzt,fell
+weh tun,to hurt
+die Gehirnerschütterung,concussion
+manche,some
+niessen,to sneeze
+das Hals,the neck
+der Mund,the mouth
 merkwürdig,unusual, strange
 abhängig,dependent
 die Beziehung,relationship
