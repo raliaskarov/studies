@@ -1,3 +1,94 @@
+to be,sein
+to have,haben
+to become,werden
+to can (be able to),können
+to must (have to),müssen
+to want,wollen
+to should (ought to),sollen
+to may (be allowed to),dürfen
+to like,mögen
+to go,gehen
+to stand,stehen
+to sit,sitzen
+to lie,liegen
+to put,legen
+to hang,hängen
+to come,kommen
+to bring,bringen
+to take,nehmen
+to carry,tragen
+to hold,halten
+to give,geben
+to find,finden
+to know (a fact),wissen
+to know (be acquainted with),kennen
+to think,denken
+to believe,glauben
+to mean,meinen
+to say,sagen
+to speak,sprechen
+to read,lesen
+to write,schreiben
+to see,sehen
+to look,schauen
+to hear,hören
+to listen,zuhören
+to smell,riechen
+to taste,schmecken
+to feel,fühlen
+to touch,berühren
+to eat,essen
+to drink,trinken
+to sleep,schlafen
+to wake up,aufwachen
+to get up,aufstehen
+to live,leben
+to work,arbeiten
+to play,spielen
+to learn,lernen
+to teach,unterrichten
+to help,helfen
+to need,brauchen
+to buy,kaufen
+to sell,verkaufen
+to pay,bezahlen
+to rent,mieten
+to drive,fahren
+to fly,fliegen
+to swim,schwimmen
+to run,laufen
+to walk,gehen
+to dance,tanzen
+to sing,singen
+to laugh,lachen
+to cry,weinen
+to begin,beginnen
+to end,enden
+to start,anfangen
+to finish,beenden
+to win,gewinnen
+to lose,verlieren
+to send,schicken
+to receive,erhalten
+to call,anrufen
+to answer,antworten
+to ask,fragen
+to wait,warten
+to hope,hoffen
+to wish,wünschen
+to wear,tragen
+to put on,anziehen
+to take off,ausziehen
+to wash,waschen
+to clean,putzen
+to cook,kochen
+to prepare,zubereiten
+to love,lieben
+to like,mögen
+to hate,hassen
+to remember,sich erinnern
+to forget,vergessen
+to enter,eintreten
 Fremdsprache,foreign language (f)
 Die Freundschaft,friendship
 Ihr seid einfach die Bestern,You are just the best
