@@ -1,3 +1,99 @@
+die Tiefe,Depth
+die Höhe,Height
+die Breite,Width
+die Breite,Breadth
+die Länge,Length
+die Größe,Size
+das Gewicht,Weight
+die Masse,Mass
+das Volumen,Volume
+die Entfernung,Distance
+die Fläche,Area
+die Form,Shape
+die Farbe,Color
+die Textur,Texture
+das Muster,Pattern
+die Oberfläche,Surface
+der Rand,Edge
+die Ecke,Corner
+der Punkt,Point
+die Linie,Line
+die Kurve,Curve
+der Winkel,Angle
+die Neigung,Slope
+das Niveau,Level
+die Position,Position
+die Richtung,Direction
+die Bewegung,Movement
+die Geschwindigkeit,Speed
+die Beschleunigung,Acceleration
+die Kraft,Force
+die Energie,Energy
+die Temperatur,Temperature
+der Druck,Pressure
+die Dichte,Density
+die Viskosität,Viscosity
+die Elastizität,Elasticity
+die Spannung,Tension
+die Reibung,Friction
+die Schwerkraft,Gravity
+der Magnetismus,Magnetism
+der Klang,Sound
+die Tonhöhe,Pitch
+die Lautstärke,Volume
+der Klangfarbe,Timbre
+der Rhythmus,Rhythm
+die Harmonie,Harmony
+die Melodie,Melody
+der Akkord,Chord
+der Beat,Beat
+das Tempo,Tempo
+das Genre,Genre
+der Stil,Style
+das Instrument,Instrument
+die Stimme,Voice
+das Lied,Song
+der Musiker/die Musikerin,Musician
+das Publikum,Audience
+das Konzert,Concert
+die Aufführung,Performance
+die Bühne,Stage
+das Theater,Theater
+der Film,Film
+die Kamera,Camera
+die Einstellung,Shot
+die Szene,Scene
+die Handlung,Plot
+der Charakter,Character
+der Dialog,Dialogue
+der Soundtrack,Soundtrack
+die Spezialeffekte,Special effects
+der Regisseur/die Regisseurin,Director
+der Schauspieler/die Schauspielerin,Actor
+die Schauspielerin,Actress
+das Drehbuch,Screenplay
+die Produktion,Production
+die Animation,Animation
+der Zeichentrickfilm,Cartoon
+die Dokumentation,Documentary
+die Nachrichten,News
+das Interview,Interview
+der Sport,Sports
+das Spiel,Game
+das Team,Team
+der Spieler/die Spielerin,Player
+das Ergebnis,Score
+die Meisterschaft,Championship
+die Olympischen Spiele,Olympic games
+das Schwimmen,Swimming
+das Laufen,Running
+das Radfahren,Cycling
+der Fußball,Football
+der Basketball,Basketball
+das Tennis,Tennis
+das Golf,Golf
+das Skifahren,Skiing
+das Snowboardfahren,Snowboarding
 good,gut
 bad,schlecht
 big,groß
