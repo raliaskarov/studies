@@ -1,3 +1,51 @@
+bevorzugen,prefer
+ermöglichen,enable / make possible
+die Wurzel,root
+das Bergsteigen,mountaineering
+überwältigend,overwhelming
+die Stille,silence
+ausschlisslich,exclusively
+begleiten,to accompany
+die Entlohnung,renumeration
+anerkennen,to acknowledge / recognise (e.g. a diploma) / appreciate  
+zuständig,responsible
+fleissig,hard working / conscientious
+teamfähig,able to work in team
+erledigen,do or deal with something / finish something (e.g. career of topic or task)
+erledigt,finished (e.g. task or career) / exhausted (topic)
+bestehen,to exist / to pass (an exam)
+Vorstellungsgespräch,job interview
+sinnvolle,meaningful
+der Verlag,publisher
+der Lebenslauf,CV / resume
+stattdessen,instead 
+verhindert,prevented / blocked (e.g. blocked this time for a meeting) 
+ganztägig,full day
+verfügbar,available
+das Auswahlverfahren,selection process (e.g. for a job)
+die Rückmeldung,feedback
+erscheinen,to appear
+stossen,to push
+schmücken,decorate
+treiben,to drive (figurative e.g. drive price up) 
+vorsichtig,carefully (e.g. not to hurt)
+sorgfältig,carefully (i.e. with attention - e.g. listen carefully) 
+peinlich,embarrassing
+die Erziehung,upbringing
+das Talent,talent
+das Zertifikat,the certificate
+die Zusage,the promise / consent / job offer
+die Absage,rejection
+die Trennung,separation
+abhängig,depending on
+berufstätig,occupied
+schätzen,recon / think / guess 
+fleissig,hard-working
+das Aussehen,appearance
+achten auf,pay attention to smth smb
+der Satz,sentence
+leiden,suffer
+gegenseitig,mutually
 die Tiefe,Depth
 die Höhe,Height
 die Breite,Width
